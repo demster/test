@@ -1,0 +1,6 @@
+highLevelMaterial "Material #53_14 - Default"
+{
+	template = ShaderBaseMaterial
+	specularColor = 0.9 0.9 0.9
+	specularShininess = 9.999999
+}
